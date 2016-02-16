@@ -4,7 +4,7 @@ Demonstrate your knowledge of Web API usage, basic I/O operations using Java, an
 
 [Using the the following JSON feed:](http://jsonplaceholder.typicode.com/posts)
 
-Create a command line application to read on the above JSON feed using HTTP. Please perform the following tasks:
+Create a command line application to read the above JSON feed using HTTP. Please perform the following tasks:
 
 1. Clone this repo
 2. [Install Maven](https://maven.apache.org/index.html) if it is not all ready installed on your local. 
