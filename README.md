@@ -6,7 +6,7 @@ Demonstrate your knowledge of Web API usage, basic I/O operations using Java, an
 
 Create a command line application to read on the above JSON feed using HTTP. Please perform the following tasks:
 
-1. Clone this repo to your local machine.
+1. Clone [this repo](https://github.com/inrhythm/java-api-test) to your local machine.
 2. [Install Maven](https://maven.apache.org/index.html) if it is not all ready installed on your local. 
 3. Tally the number of unique user Ids in the JSON.
 4. Modify the 4th JSON array item and change the title and body of the object to "InRhythm". 
