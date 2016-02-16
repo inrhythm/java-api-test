@@ -13,7 +13,7 @@ Create a command line application to read om the above JSON feed using HTTP. Ple
 5. The program must pass the pre-written JUnit test which can be run using "mvn test".
 
 ## Requirements
--Use Java 1.6/1.7/1.8+
--All dependencies should be publicly available or properly included with the project and referenced within the POM
--Be creative, have fun and may the force be with you
+- Use Java 1.6/1.7/1.8+
+- All dependencies should be publicly available or properly included with the project and referenced within the POM
+- Be creative, have fun and may the force be with you
 
