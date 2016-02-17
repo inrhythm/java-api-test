@@ -8,7 +8,7 @@ Create a command line application to read the above JSON feed using HTTP. Please
 
 ## Setup
 - Clone this repo
-- [Install Maven](https://maven.apache.org/index.html) if it is not all ready installed on your local. 
+- [Install Maven](https://maven.apache.org/index.html) if it is not already installed on your local machine. 
 
 ## Application
 - Tally the number of unique user Ids in the JSON.
