@@ -45,7 +45,7 @@ public class JsonService implements IJsonService {
 				post = null;
 			} else {
 				String field = jp.getCurrentName();
-				jp.nextToken(); // move to value
+				jp.nextToken();
 				if ("userId".equals(field)) {
 					post.setUserId(jp.getIntValue());
 				} else if ("id".equals(field)) {
