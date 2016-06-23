@@ -1,10 +1,7 @@
 package com.inrhythm.pojo;
 
-import java.io.Serializable;
+public class Post {
 
-public class Posts implements Serializable {
-
-	private static final long serialVersionUID = 1L;
 	private int userId;
 	private int id;
 	private String title;
@@ -41,4 +38,10 @@ public class Posts implements Serializable {
 	public void setBody(String body) {
 		this.body = body;
 	}
+
+	@Override
+	public String toString() {
+		return "Posts [userId=" + userId + ", id=" + id + ", title=" + title + ", body=" + body + "]";
+	}
+
 }

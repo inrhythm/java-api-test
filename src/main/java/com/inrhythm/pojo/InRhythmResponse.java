@@ -5,13 +5,13 @@ import java.util.List;
 public class InRhythmResponse {
 
 	private int userCount;
-	private List<Posts> posts;
+	private List<Post> posts;
 
-	public List<Posts> getPosts() {
+	public List<Post> getPosts() {
 		return posts;
 	}
 
-	public void setPosts(List<Posts> posts) {
+	public void setPosts(List<Post> posts) {
 		this.posts = posts;
 	}
 
